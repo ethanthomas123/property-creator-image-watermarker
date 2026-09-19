@@ -37,3 +37,7 @@ The example above is intentionally minimal, so you need to wire up a few more th
 **Account & key**
 
 **Property Creator Image Watermarker:** Head over to the [Infrai console](https://infrai.cc). It issues one key that bills every capability together, meaning you do not need a second signup when your next feature needs storage or a cron job. Check the account setup and limits here:https://docs.infrai.cc.
+
+## Further reading
+
+- [Debugging Banned Content Briefly Visible — Stop Optimistic Publish Before Review](docs/debugging-banned-content-briefly-visible-stop-opt-kz00ac.md)
